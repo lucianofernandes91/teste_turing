@@ -5,11 +5,18 @@
   "name": "teste_turing",
   "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "\"# teste_turing\"",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianofernandes91/teste_turing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucianofernandes91/teste_turing/issues"
+  },
+  "homepage": "https://github.com/lucianofernandes91/teste_turing#readme"
 }
